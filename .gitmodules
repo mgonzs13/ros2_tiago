@@ -1,28 +1,28 @@
 [submodule "hey5_description"]
-	path = hey5_description
-	url = git@github.com:pal-robotics/hey5_description.git
-	branch = foxy-devel
+    path = hey5_description
+    url = https://github.com/pal-robotics/hey5_description.git
+    branch = foxy-devel
 [submodule "pal_gazebo_plugins"]
-	path = pal_gazebo_plugins
-	url = git@github.com:pal-robotics/pal_gazebo_plugins.git
-	branch = foxy-devel
+    path = pal_gazebo_plugins
+    url = https://github.com/pal-robotics/pal_gazebo_plugins.git
+    branch = foxy-devel
 [submodule "pal_gripper"]
-	path = pal_gripper
-	url = git@github.com:pal-robotics/pal_gripper.git
-	branch = foxy-devel
+    path = pal_gripper
+    url = https://github.com/pal-robotics/pal_gripper.git
+    branch = foxy-devel
 [submodule "play_motion"]
-	path = play_motion
-	url = git@github.com:pal-robotics/play_motion.git
-	branch = foxy-devel
+    path = play_motion
+    url = https://github.com/pal-robotics/play_motion.git
+    branch = foxy-devel
 [submodule "tiago_description_calibration"]
-	path = tiago_description_calibration
-	url = git@github.com:pal-robotics/tiago_description_calibration.git
-	branch = foxy-devel
+    path = tiago_description_calibration
+    url = https://github.com/pal-robotics/tiago_description_calibration.git
+    branch = foxy-devel
 [submodule "tiago_robot"]
-	path = tiago_robot
-	url = git@github.com:pal-robotics/tiago_robot.git
-	branch = foxy-devel
+    path = tiago_robot
+    url = https://github.com/pal-robotics/tiago_robot.git
+    branch = foxy-devel
 [submodule "tiago_simulation"]
-	path = tiago_simulation
-	url = git@github.com:pal-robotics/tiago_simulation.git
-	branch = foxy-devel
+    path = tiago_simulation
+    url = https://github.com/pal-robotics/tiago_simulation.git
+    branch = foxy-devel
